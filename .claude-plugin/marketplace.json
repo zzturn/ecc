@@ -6,19 +6,19 @@
     "name": "zzturn"
   },
   "metadata": {
-    "description": "Personal fork of everything-claude-code with custom modifications"
+    "description": "Personal fork of battle-tested Claude Code configurations"
   },
   "plugins": [
     {
-      "name": "everything-claude-code",
+      "name": "ecc",
       "source": "./",
-      "description": "The most comprehensive Claude Code plugin — 14+ agents, 56+ skills, 33+ commands, and production-ready hooks for TDD, security scanning, code review, and continuous learning",
+      "description": "Personal fork of battle-tested Claude Code configurations — agents, skills, hooks, commands, and rules",
       "version": "1.9.0",
       "author": {
         "name": "zzturn"
       },
-      "homepage": "https://github.com/zzturn/everything-claude-code",
-      "repository": "https://github.com/zzturn/everything-claude-code",
+      "homepage": "https://github.com/zzturn/ecc",
+      "repository": "https://github.com/zzturn/ecc",
       "license": "MIT",
       "keywords": [
         "agents",
